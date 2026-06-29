@@ -1,4 +1,4 @@
-# Hi 👋, I'm Bibek Tamang
+# NAMASTE 🙏, I'm Bibek Tamang
 
 Email Me 👉 ✉️ **beebektamang90@gmail.com** For Collaboration/Project or Anything Else. 😊
 
