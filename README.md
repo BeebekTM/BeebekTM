@@ -1,4 +1,3 @@
-# 💫 About Me:
 NAMASTE 🙏, I'm Bibek Tamang
 
 
