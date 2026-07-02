@@ -1,20 +1,74 @@
-NAMASTE 🙏, I'm Bibek Tamang
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=BIBEK%20TAMANG&fontSize=55&fontColor=58a6ff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20Django%20%2F%20Python&descAlignY=58&descAlign=50&descColor=8b949e" width="100%"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/beebekTM) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/beebekTM) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/beebekTM) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beebektamang90@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=NAMASTE+%F0%9F%99%8F+welcome+to+my+profile;Django+%2B+DRF+%2B+PostgreSQL;Building+scalable+backend+systems;Always+shipping+%F0%9F%9A%80" />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=beebektm&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=beebektm&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=beebektm&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
----
-[![](https://komarev.com/ghpvc/?username=beebektm&icon=0&color=0)](https://visitcount.itsvg.in)
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="top" width="55%">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```yaml
+whoami:
+  name: Bibek Tamang
+  role: Backend Developer
+  based_in: Itahari, Nepal
+  stack:
+    language: Python
+    framework: [Django, Django REST Framework]
+    databases: [PostgreSQL, MySQL, SQLite]
+    tools: [Docker, Swagger, Postman, Vercel]
+  focus: Clean architecture & scalable APIs
+  website: bibektamang1.com.np
+```
+
+</td>
+<td valign="top" width="45%" align="center">
+
+<img src="https://skillicons.dev/icons?i=py,django,postgres,mysql,sqlite,docker,git,vercel,nginx,linux&theme=dark&perline=5" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🌐 Connect
+
+<a href="https://facebook.com/beebektm"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://instagram.com/beebektm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://linkedin.com/in/beebektm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
+<a href="mailto:beebektamang90@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 📊 Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=beebektm&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beebektm&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=beebektm&theme=dark&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=beebektm&label=Profile+Views&color=58a6ff&style=for-the-badge" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
