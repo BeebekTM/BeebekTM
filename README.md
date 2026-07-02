@@ -21,45 +21,9 @@ I'm a backend developer based in **Itahari, Nepal**, focused on building reliabl
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="25%">
-
-**Language**
-
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white" />
-
-</td>
-<td valign="top" width="25%">
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Django-092E20.svg?style=flat-square&logo=django&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/DRF-A30000.svg?style=flat-square&logo=django&logoColor=white" />
-
-</td>
-<td valign="top" width="25%">
-
-**Databases**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=postgresql&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/SQLite-07405E.svg?style=flat-square&logo=sqlite&logoColor=white" />
-
-</td>
-<td valign="top" width="25%">
-
-**Tools & DevOps**
-
-<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat-square&logo=swagger&logoColor=black" /><br>
-<img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=flat-square&logo=postman&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Vercel-000000.svg?style=flat-square&logo=vercel&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=git&logoColor=white" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="./assets/tech-stack-3d.svg" width="100%" />
+</p>
 
 <br>
 
