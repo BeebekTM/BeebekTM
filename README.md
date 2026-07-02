@@ -21,9 +21,49 @@ I'm a backend developer based in **Itahari, Nepal**, focused on building reliabl
 
 ## Tech Stack
 
-<p align="center">
-<img src="./assets/tech-stack-3d.svg" width="100%" />
-</p>
+<table align="center" width="100%">
+<tr>
+<td align="center" valign="top" width="25%">
+
+**🐍 Language**
+<hr width="60%">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br><br>
+
+</td>
+<td align="center" valign="top" width="25%">
+
+**⚙️ Backend**
+<hr width="60%">
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /><br><br>
+<img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" /><br><br>
+
+</td>
+<td align="center" valign="top" width="25%">
+
+**🗄️ Databases**
+<hr width="60%">
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br><br>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /><br><br>
+
+</td>
+<td align="center" valign="top" width="25%">
+
+**🛠️ Tools & DevOps**
+<hr width="60%">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br><br>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" /><br><br>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /><br><br>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /><br><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br><br>
+
+</td>
+</tr>
+</table>
 
 <br>
 
