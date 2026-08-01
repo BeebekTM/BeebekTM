@@ -70,10 +70,10 @@ I'm a backend developer based in **Itahari, Nepal**, focused on building reliabl
 
 ## GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=beebektm&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=beebektm&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=beebektm&theme=dark&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
